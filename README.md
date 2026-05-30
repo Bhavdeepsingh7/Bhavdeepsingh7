@@ -1,8 +1,8 @@
 # Hi, I'm Bhavdeep Singh 👋
 
 🎓 Information Technology Undergraduate  
-💻 Full Stack & Blockchain Developer | DSA in C++  
-🎬 Also a Video Editor creating cinematic content  
+💻 AIML and Full Stack Developer | DSA in C++  
+ 
 
 I love building real-world applications, solving DSA problems, and experimenting with Web3 technologies.
 
@@ -13,12 +13,19 @@ I love building real-world applications, solving DSA problems, and experimenting
 ### 👨‍💻 Languages
 - C, C++, JavaScript, Python (basic)
 
+### Machine Learning 
+- Scikit-learn, Algorithms, Pandas, NumPy, Matplotlib
+- Regression, Feature engineering, Model Evaluation, Data Preprocessing
+
+### Deep Learning
+- PyTorch, Tensorflow/Keras, Neural Network, ANN, RNN, CNN
+
+### Generative AI
+- LLM Api's, RAG, Prompt engineering, AI integration
+
 ### 🌐 Web Development
 - HTML, CSS, React, Node.js, Express
 - REST APIs, JWT Authentication
-
-### ⛓️ Blockchain
-- Solidity, Ethereum, MetaMask, Web3.js
 
 ### 🗄️ Databases & Tools
 - MongoDB, Git, GitHub, Postman, VS Code
