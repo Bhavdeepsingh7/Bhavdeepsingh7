@@ -89,7 +89,7 @@ content with a distributed backend architecture.
 - Added tenant-scoped API authentication and webhooks.
 - Developed a Python SDK for API integration.
 
-👉 [GitHub](moderashield)
+👉 [GitHub](https://github.com/Bhavdeepsingh7/moderashield)
 
 ---
 
@@ -114,8 +114,8 @@ GitHub repositories using Retrieval-Augmented Generation.
 - Exposed **20+ REST endpoints**.
 - Deployed across Vercel, Render, and Supabase.
 
-👉 [Live Demo](YOUR_LIVE_DEMO)  
-👉 [GitHub](YOUR_ENGINEERING_HUB_REPO)
+👉 [Live Demo](https://engineering-hub-indol.vercel.app/)  
+👉 [GitHub](https://github.com/Bhavdeepsingh7/engineering-hub)
 
 ---
 
@@ -161,7 +161,7 @@ and secure multi-user access.
 - Optimized MongoDB queries using compound indexes.
 - Reduced average response time by **25% (~120ms → ~90ms)**.
 
-👉 [GitHub](YOUR_FINANCE_TRACKER_REPO)
+👉 [GitHub](https://github.com/bhavdeepsingh7/expense-tracker-mern)
 
 ---
 
@@ -196,7 +196,7 @@ Focused on:
 - Sliding Window
 - Optimization & Complexity Analysis
 
-👉 [DSA / Competitive Programming](https://github.com/bhavdeepsingh7/competitive-programming-cpp)
+👉 [DSA / Competitive Programming](https://leetcode.com/bhavdeepsingh7)
 
 ---
 
