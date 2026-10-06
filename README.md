@@ -89,7 +89,7 @@ content with a distributed backend architecture.
 - Added tenant-scoped API authentication and webhooks.
 - Developed a Python SDK for API integration.
 
-👉 [GitHub](YOUR_MODERASHIELD_REPO)
+👉 [GitHub](moderashield)
 
 ---
 
